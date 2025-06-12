@@ -6,7 +6,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*'], // Cambia esto por ['http://tudominio.com'] en producción
+    'allowed_origins' => ['https://black-forest-01f3db90f.6.azurestaticapps.net'], // Cambia esto por ['http://tudominio.com'] en producción
 
     'allowed_origins_patterns' => [],
 
